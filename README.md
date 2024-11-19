@@ -1,6 +1,6 @@
 # lehtiodocs
 
-## Links
+## Quick links
 [Group meetings fall 2024](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Schedule%20Tuesday%20group%20meetings%20fall%202024.pdf?csf=1&web=1&e=FY3Cni)
 
 [Vacation calendar](https://docs.google.com/spreadsheets/d/1rYiAnzlRtjkcNjPVVzKJ4WfNV0hke0WSBMhP2RHRK8k/)
@@ -9,10 +9,13 @@
 
 [KI "Primula" employment admin](https://ppw.ki.se) - for holidays, sick leave, travel, etc
 
+[Travel booking form](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Travel%20booking%20form_LL.pdf?csf=1&web=1&e=aXa9Dj)
+
+
 ## Instructions
 
 ### Holiday application
-- Scientists (Ph.D students, postdoc, (assoc) profs) fill in ...
-- Other staff fills in form on Primula
-- Everyone ALSO have to fill in the vacation calendar 
+- Scientists (Ph.D students, postdoc, (assoc) profs) fill in [this form](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Vacation%20form_eng.pdf?csf=1&web=1&e=fqEcy7)
+- Other staff fills in form on [Primula](https://ppw.ki.se)
+- Everyone ALSO have to fill in the [vacation calendar](https://docs.google.com/spreadsheets/d/1rYiAnzlRtjkcNjPVVzKJ4WfNV0hke0WSBMhP2RHRK8k/)
 
