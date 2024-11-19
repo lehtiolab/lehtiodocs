@@ -15,3 +15,6 @@
 - Scientists (Ph.D students, postdoc, (assoc) profs) fill in ...
 - Other staff fills in form on Primula
 - Everyone ALSO have to fill in the vacation calendar
+
+### Cake club
+
