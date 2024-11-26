@@ -19,3 +19,9 @@
 - Other staff fills in form on [Primula](https://ppw.ki.se)
 - Everyone ALSO have to fill in the [vacation calendar](https://docs.google.com/spreadsheets/d/1rYiAnzlRtjkcNjPVVzKJ4WfNV0hke0WSBMhP2RHRK8k/)
 
+### New computers
+- __Personal__ computers can be ordered on [Wisum](https://www.wisum.its.umu.se/KI/Default.aspx)
+- Before using, they need to be registered by [KI central IT](https://selfservice.ki.se/sv-SE/support/ita-create-incident/) 
+- Create a ticket and send them the serial number of your new computer
+- When they reply, you can follow their instructions and start the computer, which will download the remote control software
+- Instrument computers are exempt from registration as they are not coupled to a person
