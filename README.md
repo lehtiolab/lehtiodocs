@@ -11,6 +11,8 @@
 
 [Travel booking form](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Travel%20booking%20form_LL.pdf?csf=1&web=1&e=aXa9Dj)
 
+[Lehtio group photo ppt slide](https://kise.sharepoint.com/:p:/r/teams/GRP_LehtiLab/Delade%20dokument/General/LehtioLab_with_grantSup.pptx?d=w31f30ea5b6a342149cc7e39e66157fa3&csf=1&web=1&e=n57QrG)
+
 
 ## Instructions
 
