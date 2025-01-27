@@ -1,7 +1,7 @@
 # lehtiodocs
 
 ## Quick links
-[Group meetings fall 2024](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Schedule%20Tuesday%20group%20meetings%20Spring%202025.pdf?csf=1&web=1&e=20d6bT)
+[Group meetings spring 2025](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Schedule%20Tuesday%20group%20meetings%20Spring%202025.pdf?csf=1&web=1&e=20d6bT)
 
 [Vacation calendar](https://docs.google.com/spreadsheets/d/1rYiAnzlRtjkcNjPVVzKJ4WfNV0hke0WSBMhP2RHRK8k/)
 
