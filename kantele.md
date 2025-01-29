@@ -12,7 +12,7 @@ In a column of the acquisition list, you can specify if the file needs to be add
 File transfer follows this procedure:
 - Start the transfer script. NB: Thermo instruments, the script needs to `Run as administrator`.
 - Set the output of the acquisition to `D:\outbox` (not for blanks etc)
-- In the SampleID / SampleComment column, write a dataset ID (number) or `QC` if applicable
+- In the SampleID / SampleComment column, write a dataset ID (number), `DDAQC, or `DIAQC`, or nothing/nonsense text
 - Start acquiring
 - Transfer script will automatically pick up files that are finished.
 - Report bugs :(
