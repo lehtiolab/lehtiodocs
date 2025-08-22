@@ -1,9 +1,11 @@
 # lehtiodocs
 
 ## Quick links
-[Group meetings spring 2025](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Schedule%20Tuesday%20group%20meetings%20Spring%202025.pdf?csf=1&web=1&e=20d6bT)
+[Group meetings autumn 2025](https://kise.sharepoint.com/:b:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Schedule%20Tuesday%20group%20meetings%20fall%2020250821.pdf)
 
 [Vacation calendar](https://docs.google.com/spreadsheets/d/1rYiAnzlRtjkcNjPVVzKJ4WfNV0hke0WSBMhP2RHRK8k/)
+
+[Group SOPs](https://kise.sharepoint.com/:f:/r/teams/GRP_LehtiLab/Delade%20dokument/General/group%20SOPs)
 
 [TED talk slides instructions](https://kise.sharepoint.com/:p:/r/teams/GRP_LehtiLab/Delade%20dokument/General/TedTalk_instructions.pptx?d=w657c96466b0944b9ae631f0f01db5baf&csf=1&web=1&e=f04GYB) (deposit slides in Teams channel)
 
