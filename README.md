@@ -1,8 +1,7 @@
 # lehtiodocs
 
 ## Quick links
-[Group meetings spring 2026](https://kise.sharepoint.com/:w:/r/teams/GRP_LehtiLab/Delade%20dokument/General/Schedule%20Tuesday%20group%20meetings%20Spring%202026.docx)
-
+[Group meetings autumn 2026](https://kise.sharepoint.com/:w:/r/teams/GRP_LehtiLab/Delade%20dokument/General/2026_Schedule%20Tuesday%20GMs%20fall_v260819.docx)
 [Vacation calendar](https://docs.google.com/spreadsheets/d/1rYiAnzlRtjkcNjPVVzKJ4WfNV0hke0WSBMhP2RHRK8k/)
 
 [Group SOPs](https://kise.sharepoint.com/:f:/r/teams/GRP_LehtiLab/Delade%20dokument/General/group%20SOPs)
